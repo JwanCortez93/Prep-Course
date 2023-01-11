@@ -1,0 +1,30 @@
+h1 {
+    color:darkred
+}
+
+img {
+    width:400px
+}
+
+div{
+    
+}
+body{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+#thirdDiv {
+    height:600px;
+    width:500px;
+    background-color:rgba(240, 230, 140, 0.623);
+    back
+    padding: 50px;
+    border:3px solid black;
+    
+}
+#spanId {
+    font-size: 18px;
+    margin:50px
+}
