@@ -6,9 +6,7 @@ img {
     width:400px
 }
 
-div{
-    
-}
+
 body{
     display:flex;
     flex-direction: column;
